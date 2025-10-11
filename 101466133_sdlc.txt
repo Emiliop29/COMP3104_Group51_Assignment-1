@@ -1,0 +1,23 @@
+Why DevOps matters in the Software Development Life Cycle (SDLC)
+
+DevOps strengthens every SDLC phase by shortening feedback loops and removing hand-offs that create delays and defects.
+
+1) Requirements & Planning
+Automated checks (linting, formatting, security scanning) and shared backlogs make scope visible. Teams plan smaller, testable increments, which reduces ambiguity and rework.
+
+2) Design
+Designs are validated earlier with prototype builds and ephemeral environments. Peer reviews and CI gates encourage simple, modular architectures that are easier to test and deploy.
+
+3) Implementation
+Feature branches, pull requests, and automated tests keep changes focused and traceable. Developers integrate frequently, so merge conflicts are smaller and easier to resolve.
+
+4) Testing
+Shift-left testing and continuous integration execute unit, integration, and basic e2e tests on every commit. Failures surface within minutes instead of days, preventing defect snowballs.
+
+5) Deployment
+Continuous delivery keeps main deployable. Automated pipelines produce consistent, auditable releases, decreasing manual error and weekend “big-bang” cutovers.
+
+6) Operations & Maintenance
+Monitoring, logging, and alerts provide real-time insight into user impact. Post-incident reviews and metrics (MTTR, change failure rate) drive continuous improvement across teams.
+
+In short, DevOps transforms SDLC from a sequence of isolated stages into a continuous flow where code moves safely from idea to production, supported by automation, collaboration, and data.
