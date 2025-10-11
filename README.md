@@ -1,5 +1,19 @@
 # COMP3104_Group51_Assignment
 
+---
+
+## 📑 Table of Contents
+- [Project Description](#-project-description)
+- [Group Members](#-group-members)
+- [Setup Instructions](#️-setup-instructions)
+- [CI/CD Pipeline](#-cicd-pipeline)
+- [Branching Strategy](#-branching-strategy)
+- [Files Created by Each Member](#-files-created-by-each-member)
+- [Submission Details](#-submission-details)
+
+---
+
+
 ## 📘 Project Description
 This repository contains the group assignment for **COMP 3104 – DevOps** at **George Brown College**.  
 It demonstrates collaboration using Git and GitHub, including branching, merging, pull requests, and continuous integration (CI) with GitHub Actions.
