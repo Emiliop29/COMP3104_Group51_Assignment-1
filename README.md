@@ -27,24 +27,34 @@ It demonstrates collaboration using Git and GitHub, including branching, merging
 🔄 CI/CD Pipeline
 
 The repository uses GitHub Actions to run a simple CI workflow on every push and pull request.
+
 The workflow file is located in .github/workflows/ci.yml.
 
 
+
 🌿 Branching Strategy
+
 Each member works on their own branch named STUDENTID-Name.
+
 All changes are merged into the main branch via Pull Requests after review.
 
 
 🧩 Files Created by Each Member
+
 Each student created three .txt files containing:
+
 Information about George Brown College
+
 Overview of the COMP 3104 DevOps course
 The importance of DevOps in the SDLC
 
 
 🏁 Submission Details
+
 Repository Link: COMP3104_Group51_Assignment-1
+
 Deadline: October 12, 2025
+
 Instructor: Pritesh Patel
 
 
