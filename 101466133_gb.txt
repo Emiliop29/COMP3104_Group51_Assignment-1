@@ -1,0 +1,9 @@
+George Brown College (GBC) — a public college in Toronto, Canada — focuses on applied learning that bridges classroom theory and industry practice. Programs are built with input from employers, so students graduate with skills that map to real roles and tools used on the job.
+
+GBC emphasizes work-integrated learning: co-ops, field placements, capstone projects, and labs that simulate professional environments. This helps students build portfolios, confidence, and networks before graduation.
+
+The college’s teaching model combines lectures with hands-on labs, small group collaboration, and frequent feedback. In technical programs, students are expected to use version control, automated testing tools, containerization, and cloud services to mirror modern workflows.
+
+Student support is a core part of the experience: academic advising, tutoring, career services, resume and interview coaching, and networking events with industry partners. Clubs, hackathons, and mentoring initiatives encourage peer learning and community.
+
+Located in downtown Toronto, GBC benefits from proximity to a diverse tech and business ecosystem. Many instructors are current or former practitioners, which keeps course content aligned with industry trends and best practices.
