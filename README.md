@@ -1,5 +1,10 @@
 # COMP3104_Group51_Assignment
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Emiliop29/COMP3104_Group51_Assignment-1?color=blue&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Emiliop29/COMP3104_Group51_Assignment-1?color=green&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/Emiliop29/COMP3104_Group51_Assignment-1?color=yellow&style=flat-square)
+
+
 ---
 
 ## 📑 Table of Contents
