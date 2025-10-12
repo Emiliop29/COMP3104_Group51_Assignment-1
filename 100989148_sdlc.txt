@@ -1,1 +1,4 @@
 DevOps is a combination of “Development” and “Operations.”
+It’s a modern approach that integrates software development (coding, testing, building) with IT operations (deployment, monitoring, maintenance) to deliver applications faster, more reliably, and with higher quality.
+
+Instead of developers and system admins working separately, DevOps promotes collaboration, automation, and continuous feedback throughout the entire lifecycle.
