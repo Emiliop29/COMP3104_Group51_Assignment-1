@@ -2,3 +2,12 @@ DevOps is a combination of “Development” and “Operations.”
 It’s a modern approach that integrates software development (coding, testing, building) with IT operations (deployment, monitoring, maintenance) to deliver applications faster, more reliably, and with higher quality.
 
 Instead of developers and system admins working separately, DevOps promotes collaboration, automation, and continuous feedback throughout the entire lifecycle.
+
+this course is important because
+
+1- 1. Bridges the Gap Between Development and Operations
+
+Traditionally: Developers build the software and Operations deploy and maintain it.
+
+This often led to conflicts, delays, and “it works on my machine” problems.
+DevOps unifies both teams, creating a shared responsibility for the final product
