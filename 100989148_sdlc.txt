@@ -11,3 +11,15 @@ Traditionally: Developers build the software and Operations deploy and maintain 
 
 This often led to conflicts, delays, and “it works on my machine” problems.
 DevOps unifies both teams, creating a shared responsibility for the final product
+
+2. Enables Continuous Integration and Continuous Deployment (CI/CD)
+
+Learning DevOps teaches you how to:
+
+Automate builds, tests, and deployments.
+
+Integrate code changes frequently and safely.
+
+Deliver new features or bug fixes rapidly and consistently.
+
+💡 Example: Using tools like GitHub Actions, Jenkins, or GitLab CI, you can automatically test and deploy new code after every commit.
