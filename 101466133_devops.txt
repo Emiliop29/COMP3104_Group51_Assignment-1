@@ -1,0 +1,16 @@
+COMP 3104 — DevOps introduces practical methods to deliver software faster and more reliably by integrating development and operations. The course centers on collaboration, automation, measurement, and continuous improvement.
+
+Key concepts include:
+• Version control with Git and branch strategies for safe change integration.
+• Continuous Integration (CI): automated builds and tests on every push or pull request.
+• Continuous Delivery/Deployment (CD): keeping main always deployable and reducing release risk.
+• Infrastructure as Code and reproducible environments for consistency across teams.
+• Observability: logs, metrics, dashboards, and feedback loops to drive improvements.
+
+The group assignment requires each student to work on a personal branch, create meaningful commits, open pull requests, and resolve conflicts. A simple CI workflow (e.g., GitHub Actions) validates every change automatically. The point is not only to produce files, but to practice the habits that reduce lead time and increase change quality.
+
+By the end of COMP 3104, students should be able to:
+• Use Git confidently in a collaborative setting.
+• Set up and interpret CI pipelines.
+• Write clearer change histories and review code effectively.
+• Connect technical practices to measurable delivery outcomes such as shorter cycle time, fewer defects, and faster recovery.
