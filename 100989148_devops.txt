@@ -5,3 +5,4 @@ and there is various topic to discuss
 3- infrastructure as a code , containerization & orchestration
 4- monitoring and logging
 5- security and controle 
+6- cloud and virtualization 

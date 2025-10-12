@@ -63,3 +63,16 @@ Communicate effectively
 Share responsibility for the entire lifecycle
 
 This teamwork reduces friction and increases productivity.
+
+6. Prepares You for the Cloud and Modern Infrastructure
+
+Modern software runs on cloud platforms (AWS, Azure, GCP).
+DevOps principles help you:
+
+Manage Infrastructure as Code (IaC)
+
+Deploy using containers (Docker) and orchestration (Kubernetes)
+
+Scale and monitor apps efficiently
+
+👉 Cloud-native development is now the global standard — and DevOps is at its core.
