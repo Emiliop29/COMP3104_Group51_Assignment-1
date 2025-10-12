@@ -28,8 +28,8 @@ It demonstrates collaboration using Git and GitHub, including branching, merging
 |------|------|-------------|-----------------|
 | Leader | Carlos Emiliano Barron Sosa | 101533358 | [Emiliop29](https://github.com/Emiliop29) |
 | Member | Oleg Sanitskii | 101466133 | [OlegSanitskii](https://github.com/OlegSanitskii) |
-| Member | Jacques Vidjanagni | 100989148 [jacques758](https://github.com/jacques758)
-| 
+| Member | Jacques Vidjanagni | 100989148|[jacques758](https://github.com/jacques758) |
+| Member | Omar Romero | 101533489 | [iit10](https://github.com/iit10) |
 
 ## ⚙️ Setup Instructions
 1. Clone the repository:
