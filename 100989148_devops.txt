@@ -2,3 +2,4 @@ A DevOps course in a computer systems / software program usually aims to teach m
 and there is various topic to discuss
 1- introduction to DevOps
 2- continuous Integration , Delivery and deployment
+3- infrastructure as a code , containerization & orchestration
