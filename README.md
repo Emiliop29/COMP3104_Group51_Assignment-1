@@ -43,38 +43,49 @@ It demonstrates collaboration using Git and GitHub, including branching, merging
    git checkout STUDENTID-Name
 
 
-🔄 CI/CD Pipeline
+---
 
-The repository uses GitHub Actions to run a simple CI workflow on every push and pull request.
+<a id="cicd-pipeline"></a>
+## 🔄 CI/CD Pipeline
+The repository uses **GitHub Actions** to run a simple CI workflow on every push and pull request.  
+The workflow file is located at: .github/workflows/ci.yml
 
-The workflow file is located in .github/workflows/ci.yml.
+---
+
+<a id="branching-strategy"></a>
+## 🌿 Branching Strategy
+Each member works on their own branch named `STUDENTID-Name`.  
+All changes are merged into the `main` branch via **Pull Requests** after review.  
+
+---
+
+<a id="files-created-by-each-member"></a>
+## 🧩 Files Created by Each Member
+Each student created three `.txt` files containing:
+
+1. **Information about George Brown College**  
+2. **Overview of the COMP 3104 DevOps course**  
+3. **The importance of DevOps in the SDLC**
 
 
-
-🌿 Branching Strategy
-
-Each member works on their own branch named STUDENTID-Name.
-
-All changes are merged into the main branch via Pull Requests after review.
+Example:
 
 
-🧩 Files Created by Each Member
+101466133_gb.txt
 
-Each student created three .txt files containing:
+101466133_devops.txt
 
-Information about George Brown College
+101466133_sdlc.txt
 
-Overview of the COMP 3104 DevOps course
-The importance of DevOps in the SDLC
+---
 
+<a id="submission-details"></a>
+## 🏁 Submission Details
+- **Repository Link:** [COMP3104_Group51_Assignment-1](https://github.com/Emiliop29/COMP3104_Group51_Assignment-1)  
+- **Deadline:** October 12, 2025  
+- **Instructor:** Pritesh Patel  
 
-🏁 Submission Details
-
-Repository Link: COMP3104_Group51_Assignment-1
-
-Deadline: October 12, 2025
-
-Instructor: Pritesh Patel
+---
 
 
 
