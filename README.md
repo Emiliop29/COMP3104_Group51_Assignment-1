@@ -87,5 +87,14 @@ Example:
 
 ---
 
+---
+
+<a id="about-this-branch"></a>
+## ✨ About This Branch
+This branch (`101466133-OlegSanitskii`) was created and maintained by **Oleg Sanitskii (101466133)**  
+as part of the COMP3104 DevOps group assignment at **George Brown College**.  
+All changes focus on improving documentation structure, readability, and overall project clarity.
+
+---
 
 
