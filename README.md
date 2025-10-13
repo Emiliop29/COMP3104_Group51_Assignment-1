@@ -30,7 +30,7 @@ It demonstrates collaboration using Git and GitHub, including branching, merging
 | Member | Oleg Sanitskii | 101466133 | [OlegSanitskii](https://github.com/OlegSanitskii) |
 | Member | Omar Romero Garcia | 101533489 | [iit10](https://github.com/iit10)|
 | Member | Jacques Vidjanagni | 100989148 | [jacques758](https://github.com/jacques758)
-| Member | Gurrmesh Singgh | 101471817 | [jacques758](https://github.com/Gurrmesh)
+| Member | Gurrmesh Singgh | 101471817 | [Gurrmesh(https://github.com/Gurrmesh)
 
 ## ⚙️ Setup Instructions
 1. Clone the repository:
@@ -87,4 +87,5 @@ Example:
 - **Instructor:** Pritesh Patel  
 
 ---
+
 
