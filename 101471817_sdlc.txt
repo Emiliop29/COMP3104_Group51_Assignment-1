@@ -1,2 +1,2 @@
 Software development Life Cycle
-Agile Methodology
+Agile Methodology, development framework
