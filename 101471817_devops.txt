@@ -1,4 +1,5 @@
 DevOps course - Professor: priteshKumar Patel
 
 DevOps offers the knowledge of deploying and making server and applications using different hosts like Travis CI/ Github Actions.
-Cohort A
+
+Cohort A, T177
